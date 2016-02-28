@@ -1,0 +1,22 @@
+_repo: Two-Summers-in-Guyenne-A-Chronicle-of-the-Wayside-and-Waterside_8546
+creator:
+  author:
+    agent_name: Barker, Edward Harrison
+    birthdate: 1851
+    deathdate: 1919
+    gutenberg_agent_id: '2796'
+    url: http://www.gutenberg.org/2009/agents/2796
+description: Cover -- Contents.
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Guyenne (France)'
+title: 'Two Summers in Guyenne: A Chronicle of the Wayside and Waterside'
+url: http://www.gutenberg.org/ebooks/8546
