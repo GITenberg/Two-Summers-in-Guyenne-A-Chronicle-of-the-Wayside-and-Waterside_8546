@@ -1,4 +1,8 @@
 _repo: Two-Summers-in-Guyenne-A-Chronicle-of-the-Wayside-and-Waterside_8546
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barker, Edward Harrison
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2796'
     url: http://www.gutenberg.org/2009/agents/2796
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8546#Two-Summers-in-Guyenne-A-Chronicle-of-the-Wayside-and-Waterside
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
